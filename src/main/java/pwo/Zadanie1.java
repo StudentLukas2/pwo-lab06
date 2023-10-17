@@ -1,4 +1,5 @@
- public class Zadanie1 {
+package pwo; 
+public class Zadanie1 {
 
  public static final int FROM=0, TO=100;
  public static final String FILE_NAME = "fibseq100.txt";

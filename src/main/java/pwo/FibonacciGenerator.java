@@ -1,3 +1,4 @@
+package pwo;
 import java.math.BigDecimal;
 
 public class FibonacciGenerator {
