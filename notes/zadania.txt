@@ -1,0 +1,6 @@
+Zadanie 2.
+Napisz program generujący 100 pierwszych wyrazów ciągu Lucasa
+i zapisujący je do pliku tekstowego.
+Zadanie 3.
+Napisz program generujący 100 pierwszych wyrazów ciągu
+Tribonacciego i zapisujący je do pliku tekstowego.
